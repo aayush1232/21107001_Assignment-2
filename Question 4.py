@@ -17,4 +17,4 @@ if true_or_false == True:
     print("Yes")
 
 else:
-    print("No")    
+    print("N")    
